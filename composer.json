@@ -15,7 +15,6 @@
             "email": "diego@bitzua.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.2",
         "ext-curl": "*"
