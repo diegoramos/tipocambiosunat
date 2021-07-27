@@ -1,11 +1,12 @@
 {
-    "name": "bitzua/tipo-cambio",
+    "name": "bitzua/tipo-cambio-sunat",
     "description": "Tipo de cambio Sunat",
     "type": "library",
     "keywords": [
         "sunat",
         "tipo cambio"
     ],
+    "license": "MIT",
     "authors": [
         {
             "name": "R Diego",
