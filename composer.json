@@ -1,12 +1,14 @@
 {
     "name": "bitzua/tipo-cambio-sunat",
+    "version": "1.0.0",
     "description": "Tipo de cambio Sunat",
     "type": "library",
     "keywords": [
         "sunat",
         "tipo cambio"
     ],
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "R Diego",
@@ -15,7 +17,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.2"
+        "php": ">=7.2",
+        "ext-curl": "*"
     },
     "autoload": {
         "psr-4": {
