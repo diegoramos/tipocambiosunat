@@ -1,0 +1,24 @@
+{
+    "name": "bitzua/tipo-cambio",
+    "description": "Tipo de cambio Sunat",
+    "type": "library",
+    "keywords": [
+        "sunat",
+        "tipo cambio"
+    ],
+    "authors": [
+        {
+            "name": "R Diego",
+            "email": "diego@bitzua.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bitzua\\": "src/"
+        }
+    }
+}
